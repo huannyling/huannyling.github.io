@@ -1,19 +1,17 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Biochar
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  subtitle: project1
+  thumbnail: https://regenerationinternational.org/wp-content/uploads/2018/05/biochar.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Biochar project
+subtitle: research
+image: https://regenerationinternational.org/wp-content/uploads/2018/05/biochar.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
+This project is about biochar affect soil microbiology
 
 {:.list-inline} 
 - Date: 2020-10-15
