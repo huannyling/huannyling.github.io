@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: Biochar
   subtitle: subtitle
   thumbnail: https://place-hold.it/400x300
   
@@ -16,7 +16,7 @@ Use this area to describe your project. **Markdown** supported.
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
+- Date: 2020-10-15
 - Client: 
 - Category: 
 
