@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Biochar project
   subtitle:project1
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: https://www.google.com/url?sa=i&url=https%3A%2F%2Fregenerationinternational.org%2F2018%2F05%2F16%2Fwhat-is-biochar%2F&psig=AOvVaw2sDBNiZ0ymPVJMsn6zmQvv&ust=1602819008591000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDryZ7UtewCFQAAAAAdAAAAABAD
   
 #what displays when the item is clicked:
 title: Title1232132313
