@@ -1,14 +1,14 @@
 nav:
-  - title: "Research interest"
+  - title: "services"
     section: services
 
-  - title: "Academic grograms"
+  - title: "portfolio"
     section: portfolio
     
-  - title: "Career footprints"
+  - title: "about"
     section: timeline
 
-  - title: "Co-author"
+  - title: "team"
     section: team
 
   - title: "Contact"
