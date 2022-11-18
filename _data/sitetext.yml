@@ -5,11 +5,11 @@ header:
     buttonlink: "#services"
 
 services:
-    title: "Interest"
+    title: "Services"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "Climate change"
+      - title: "E-commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
