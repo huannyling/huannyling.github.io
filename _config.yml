@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "https://huannyling.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : My Awesome Website 
+title      : Wenhuan Xu's home page
 email      : huannyling@gmail.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Isaac
