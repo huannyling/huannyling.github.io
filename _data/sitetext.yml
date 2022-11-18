@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to my page!
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: know more about me
     buttonlink: "#services"
 
 services:
